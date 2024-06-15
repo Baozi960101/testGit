@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "location": "前端作品1",
+        "likes": 1
+      },
+      {
+        "id": 2,
+        "location": "前端作品2",
+        "likes": 2
+      },
+      {
+        "id": 3,
+        "location": "前端作品3",
+        "likes": 3
+      },
+      {
+        "id": 4,
+        "location": "前端作品4",
+        "likes": 4
+      },
+      {
+        "id": 5,
+        "location": "前端作品5",
+        "likes": 5
+      }
+    ]
+  }
