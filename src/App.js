@@ -15,7 +15,7 @@ const router = createBrowserRouter([
 function HomePage() {
   return (
     <div>
-      <h1>這是開發線1.0</h1>
+      <h1>這是開發線2.0</h1>
       <h1>這是一個新功能</h1>
       <p>
         Go to <Link to="/A">A</Link>
